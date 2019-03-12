@@ -14,6 +14,7 @@ public class arifm {
 
         System.setIn(is);
         readAndPrintLine();
+        System.out.println("Hi!");
     }
 
     private static void readAndPrintLine() throws IOException {
@@ -38,5 +39,6 @@ public class arifm {
         }
 
 
+
     }
-}
+
