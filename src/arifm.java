@@ -33,6 +33,10 @@ public class arifm {
         for (byte b : buffer
         ) {
             System.out.println(b);
+            System.out.println(b);
+            System.out.println(b);
+            System.out.println(b);
+
 
         }
 
